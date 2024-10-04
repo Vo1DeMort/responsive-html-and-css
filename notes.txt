@@ -1,0 +1,10 @@
+box-sizing
+overflow
+
+when does the scroll-bar pops up, why
+z-index 
+justify-self
+cursor
+
+section -tag
+
